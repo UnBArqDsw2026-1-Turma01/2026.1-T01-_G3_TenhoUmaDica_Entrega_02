@@ -12,7 +12,6 @@
       - [2.2.1. Diagrama de Sequência](/Modelagem/2.2.1.DiagramaDeSequencia.md)
       - [2.2.2. Diagrama de Comunicação](/Modelagem/2.2.2.DiagramaDeComunicacao.md)
       - [2.2.3. Diagrama de Atividades](/Modelagem/2.2.3.DiagramaDeAtividades.md)
-      
     - [2.3. Modelagem UML Organizacional](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1 Diagrama de Casos de Uso](/Modelagem/2.3.1.DiagramaDeCasosDeUso.md)
       - [2.3.2 Diagrama de Pacotes](/Modelagem/2.3.2.DiagramaDePacotes.md)
