@@ -23,7 +23,7 @@
 O projeto **TenhoUmaDica** surgiu da necessidade de centralizar e organizar o conhecimento informal compartilhado entre os estudantes da Faculdade UnB Gama (FCTE). A plataforma funciona como um repositório de dicas acadêmicas, onde a colaboração é incentivada por meio de um sistema de gamificação.
 
 A base conceitual do projeto foi construída utilizando metodologias de **Design Sprint**, focando na experiência do usuário e na viabilidade técnica. Para entender mais sobre a fundamentação do projeto, acesse a documentação completa no repositório da primeira fase:
-* [Repositório da Entrega 01 - Requisitos e Planejamento](LINK_DO_SEU_REPO_DA_ENTREGA_01)
+* [Repositório da Entrega 01 - Requisitos e Planejamento](https://unbarqdsw2026-1-turma01.github.io/2026.1-T01-_G3_TenhoUmaDica_Entrega_01/#/)
 
 ## Screenshots da Segunda Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
