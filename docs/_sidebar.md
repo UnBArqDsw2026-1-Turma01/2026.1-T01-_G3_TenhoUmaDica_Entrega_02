@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/)
+- [Home](/docs)
 - [Projetos](/docs/Projeto/Projeto.md)
 
 - **Modelagem**
