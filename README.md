@@ -1,31 +1,55 @@
-# RepositorioTemplate
+# TenhoUmaDica
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+**Código da Disciplina:** FGA0208 - Arquitetura e Desenho de Software  
+**Número do Grupo:** 03  
+**Entrega:** 02
 
-## Introdução
+## Alunos
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+| Matrícula  | Aluno                                                  |
+| :--------- | :----------------------------------------------------- |
+| 22/1031256 | [Angélica](https://github.com/angelicaccampos)         |
+| 23/1011963 | [Brenda](https://github.com/Brwnds)                    |
+| 23/1011266 | [Diogo](https://github.com/Diogo-Olivv)                |
+| 21/1062867 | [Felipe Rodrigues](https://github.com/felipeJRdev)     |
+| 22/1022533 | [Gabriel Augusto](https://github.com/gabrielaugusto23) |
+| 22/1022560 | [Gabriel Maciel](https://github.com/GabrielMacielBR)   |
+| 22/1022005 | [João Gabriel](https://github.com/JoaoComTil)          |
+| 21/1061930 | [João Reis](https://github.com/Joaolramos)             |
+| 21/1062698 | [Marcos Bezerra](https://github.com/marcoslbz)         |
+| 22/1022435 | [Renan](https://github.com/rsribeiro1)                 |
 
-## Tecnologia
+## Sobre
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+O projeto **TenhoUmaDica** surgiu da necessidade de centralizar e organizar o conhecimento informal compartilhado entre os estudantes da Faculdade UnB Gama (FCTE). A plataforma funciona como um repositório de dicas acadêmicas, onde a colaboração é incentivada por meio de um sistema de gamificação.
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+A base conceitual do projeto foi construída utilizando metodologias de **Design Sprint**, focando na experiência do usuário e na viabilidade técnica. Para entender mais sobre a fundamentação do projeto, acesse a documentação completa no repositório da primeira fase:
 
-### Instalando o docsify
+- [Repositório da Entrega 01 - Requisitos e Planejamento](https://unbarqdsw2026-1-turma01.github.io/2026.1-T01-_G3_TenhoUmaDica_Entrega_01/#/)
 
-Execute o comando:
+## Screenshots da Segunda Entrega
 
-```shell
-npm i docsify-cli -g
-```
+Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
-### Executando localmente
+![Screenshot ](assets/images/screenshot_1.png)
+![Screenshot ](assets/images/screenshot_2.png)
 
-Para iniciar o site localmente, utilize o comando:
+## Há algo a ser executado?
 
-```shell
-docsify serve ./docs
-```
+( ) SIM
+( X ) NÃO
+
+Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+
+## Informações Complementares
+
+- Ferramentas Utilizadas:
+
+---
+
+## Histórico de Versão
+
+| Versão | Descrição                      | Autor(es)                                      |    Data    |
+| :----: | :----------------------------- | :--------------------------------------------- | :--------: |
+|  1.0   | Estruturação da pagina         | Angélica Campos                                | 20/04/2026 |
+|  1.1   | Adiciona tabela de integrantes | [Marcos Bezerra](https://github.com/marcoslbz) | 24/04/2026 |
