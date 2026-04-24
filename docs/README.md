@@ -8,16 +8,16 @@
 
 | Matrícula | Aluno |
 | :--- | :--- |
-| 221031256 | Angélica da Costa Campos |
-| XX/XXXXXXX | [Nome do Aluno 02] |
-| XX/XXXXXXX | [Nome do Aluno 03] |
-| XX/XXXXXXX | [Nome do Aluno 04] |
-| XX/XXXXXXX | [Nome do Aluno 05] |
-| XX/XXXXXXX | [Nome do Aluno 06] |
-| XX/XXXXXXX | [Nome do Aluno 07] |
-| XX/XXXXXXX | [Nome do Aluno 08] |
-| XX/XXXXXXX | [Nome do Aluno 09] |
-| XX/XXXXXXX | [Nome do Aluno 10] |
+| 22/1031256 | [Angélica](https://github.com/angelicaccampos) |
+| 23/1011963 | [Brenda](https://github.com/Brwnds)                    |
+| 23/1011266 | [Diogo](https://github.com/Diogo-Olivv)                |
+| 21/1062867 | [Felipe Rodrigues](https://github.com/felipeJRdev)     |
+| 22/1022533 | [Gabriel Augusto](https://github.com/gabrielaugusto23) |
+| 22/1022560 | [Gabriel Maciel](https://github.com/GabrielMacielBR)   |
+| 22/1022005 | [João Gabriel](https://github.com/JoaoComTil)          |
+| 21/1061930 | [João Reis](https://github.com/Joaolramos)             |
+| 21/1062698 | [Marcos Bezerra](https://github.com/marcoslbz)         |
+| 22/1022435 | [Renan](https://github.com/rsribeiro1)                 |
 
 ## Sobre
 O projeto **TenhoUmaDica** surgiu da necessidade de centralizar e organizar o conhecimento informal compartilhado entre os estudantes da Faculdade UnB Gama (FCTE). A plataforma funciona como um repositório de dicas acadêmicas, onde a colaboração é incentivada por meio de um sistema de gamificação.
@@ -45,5 +45,6 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 | Versão | Descrição | Autor(es) | Data |
 | :----: | :--- | :--- | :---: |
 | 1.0 | Estruturação da pagina | Angélica Campos | 20/04/2026 |
+| 1.1 | Adiciona tabela de integrantes | [Marcos Bezerra](https://github.com/marcoslbz) | 24/04/2026 |
 
 
