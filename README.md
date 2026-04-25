@@ -15,7 +15,7 @@
 | 22/1022533 | [Gabriel Augusto](https://github.com/gabrielaugusto23) |
 | 22/1022560 | [Gabriel Maciel](https://github.com/GabrielMacielBR)   |
 | 22/1022005 | [João Gabriel](https://github.com/JoaoComTil)          |
-| 21/1061930 | [João Reis](https://github.com/Joaolramos)             |
+| 21/1061930 | [João Lucas](https://github.com/Joaolramos)             |
 | 21/1062698 | [Marcos Bezerra](https://github.com/marcoslbz)         |
 | 22/1022435 | [Renan](https://github.com/rsribeiro1)                 |
 
