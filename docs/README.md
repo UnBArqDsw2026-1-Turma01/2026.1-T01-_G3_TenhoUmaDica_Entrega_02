@@ -56,7 +56,10 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
-- Ferramentas Utilizadas: 
+
+### Ferramentas Utilizadas: 
+- Miro
+- sequencediagram.org
 
 ---
 ## Histórico de Versão
