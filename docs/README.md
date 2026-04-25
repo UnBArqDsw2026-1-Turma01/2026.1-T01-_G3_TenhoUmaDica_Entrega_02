@@ -4,6 +4,24 @@
 **Número do Grupo:** 03  
 **Entrega:** 02  
 
+## Apresentação
+
+Este projeto foi desenvolvido para a disciplina **Arquitetura e Desenho de Software**, ministrada pela professora **Milene Serrano**.
+
+O projeto é inspirado no **Reddit**, uma rede social baseada em fóruns onde os próprios usuários gerenciam e ranqueiam o conteúdo através de votos em comunidades de interesse.
+
+<font size="3"><p style="text-align: center">Imagem 1: Screenshot Reddit</p></font>
+
+<p align="center">
+  <img src="./assets/imagens/Reddit_screenshot_(new).png" alt="redditscreenshot" width="600">
+</p>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="http://en.wikipedia.org/wiki/Reddit" target="_blank">Wikipedia</a>, 2026.</p></font>
+
+Adaptando essa lógica para a realidade da **FCTE/UnB**, idealizamos uma plataforma voltada para a colaboração acadêmica, resolvendo o problema da informação fragmentada em grupos de mensagens que se perdem com o tempo.
+
+O foco central é a troca direta entre veteranos e calouros: enquanto os estudantes mais experientes compartilham materiais e dicas de como lidar com os desafios acadêmicos, os recém-chegados encontram um suporte organizado para sua trajetória no campus. Além dos fóruns de disciplinas, o sistema permite classificar professores e o nível de dificuldade das matérias, criando um histórico que auxilia no planejamento dos semestres e fortalece a rede de apoio entre os alunos.
+
 ## Alunos
 
 | Matrícula | Aluno |
@@ -28,8 +46,8 @@ A base conceitual do projeto foi construída utilizando metodologias de **Design
 ## Screenshots da Segunda Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
-![Screenshot ](assets/images/screenshot_1.png)
-![Screenshot ](assets/images/screenshot_2.png)
+![Diagrama de Classes](assets/imagens/DiagramaClasses/ClassesV3.jpg)
+![Diagrama de Componentes](assets/imagens/diagrama_componentes/diagrama_componentes.jpg)
 
 ## Há algo a ser executado?
 ( ) SIM
